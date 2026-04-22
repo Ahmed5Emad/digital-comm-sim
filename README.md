@@ -43,3 +43,4 @@ python main.py
 - [PySide6](https://doc.qt.io/qtforpython/) - UI framework
 - [Matplotlib](https://matplotlib.org/) - Plotting library
 - [NumPy/SciPy](https://numpy.org/) - Signal processing math
+
